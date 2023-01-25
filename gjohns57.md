@@ -1,8 +1,9 @@
 # Gabriel Johnson
 
-netid: gjohns57  
-githuib: gjohns57  
-majors: Computer Science, Math  
+Netid: gjohns57  
+Githuib: gjohns57  
+Majors: Computer Science, Math  
+Linkedin: [here](https://www.linkedin.com/in/gabriel-johnson-438240251/)
 
 ## Background
 
