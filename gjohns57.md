@@ -11,3 +11,12 @@ I am currently a sophmore double majoring in computer science and math. I work a
 ## Interests
 
 I am interested in studying scientific computing since it ties together both of my majors quite well and a lot of the scientific computing classes count for both math and computer science.
+
+## Languages and tools
+
+- C/C++
+- Java
+- Unity
+- HTML and CSS
+- Visual Studio 2019, 2022
+- Eclipse
