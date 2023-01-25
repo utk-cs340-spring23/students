@@ -13,13 +13,13 @@ In terms of technologies, I use VSCode and vim for text editing. I have learned 
 for this class.
 
 Here is a list of some of the best albums ever created (open for discussion and additions):
-	- *In Rainbows*, Radiohead
-	- *Kid A*, Radiohead (yes, those Brits are *that* good)
-	- *In the Court of the Crimson King*, King Crimson
+- *In Rainbows*, Radiohead
+- *Kid A*, Radiohead (yes, those Brits are *that* good)
+- *In the Court of the Crimson King*, King Crimson
 	- *Sound of Silver*, LCD Soundsystem
 	- *Remain in Light*, Talking Heads
 	- *22, A Million*, Bon Iver
 	- *Cosmogramma*, Flying Lotus
 	- *To Pimp a Butterfly*, Kendrick Lamar
 
-If anyone would ever like to watch the best cinematic experiences of all time, I highly recommend [*The Nut Job (2014)*](https://the-nut-job.fandom.com/wiki/Main_Page+)
+If anyone would ever like to watch the best cinematic experiences of all time, I highly recommend [*The Nut Job (2014)*](https://the-nut-job.fandom.com/wiki/Main_Page+)!
