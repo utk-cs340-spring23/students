@@ -1,6 +1,6 @@
 # Assignment 1: CS340 with David Reid
 
-## Name: Levi Hochstetler
+## Name: Levi Hochstetler (lhochste)
 ## Github Username: Levi Hochstetler
 ## Github ID: snapplelevi
 
