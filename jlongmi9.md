@@ -14,5 +14,6 @@ Over my time at college I have learned a couple of different languages of coding
 * HTML
 * CSS
 * Python (just a little)
+
 I recently made a very limited website that makes use of JavaScript, HTML, and CSS and you can visit it [here](https://deanlongmire.github.io/Temperature-Converter/).  
 I also recently accepted a summer internship with KUB as a software developer and I am very excited to start there this May.
