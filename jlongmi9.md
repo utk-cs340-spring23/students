@@ -1,6 +1,6 @@
 # Jackson Dean Longmire
 ## Background
-My name is Dean Longmire (jlongmi9) and I am a Computer Science major, you can find me on GitHub as DeanLongmire  
+My name is Dean Longmire (jlongmi9) and I am a Computer Science major, you can find me on GitHub as DeanLongmire.  
 I grew up in Knoxville and got my Associate's in Computer Science at Pellissippi State in Hardin Valley. 
 ## Interests
 I really enjoy programming, especially in new languages that I have not been exposed to.  
