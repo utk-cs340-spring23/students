@@ -4,7 +4,7 @@
 ## Github Username: Levi Hochstetler
 ## Github ID: snapplelevi
 
-I am a sophomore here at the University of Tennessee and learning as a **VOL** is very fun. I
+I am a sophomore computer science major here at the University of Tennessee and learning as a **VOL** is very fun. I
 was born in Kingsport, TN and really enjoy how close Knoxville is. Some of my interests include:
 listening to music, playing basketball, going for runs, reading, and sometimes coding :-). 
 
