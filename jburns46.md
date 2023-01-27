@@ -1,13 +1,13 @@
-#Jackson Burns
-##NetID
+# Jackson Burns
+## NetID
 jburns46
-##GithubID
+## GithubID
 Zephrius
 
-##Introduction
+## Introduction
 Hello there, my name is Jackson Burns. I am a computer science major. I have lived in Knoxville all of my life and have three extremely sweet cats.
 
-##Interests
+## Interests
 My interests include the following:
 * Coding
 * Art
@@ -18,7 +18,7 @@ My interests include the following:
 * Doctor Who
 * Legos
 
-##Languages I am Familiar With
+## Languages I am Familiar With
 In order of familiarity:
 1. C++
 2. Javascript
