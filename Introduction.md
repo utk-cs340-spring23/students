@@ -10,7 +10,7 @@ Hello, my name is Duc Trong Nguyen. I'm 24 years old, and I come from Viet Nam. 
 
 Here is a good link to visit [Viet Nam](https://www.wayfairertravel.com/inspiration/most-beautiful-places-to-visit-in-vietnam/)
 
-Computer languages, tools and frameworks: 
+### Computer languages, tools and frameworks: 
  - C
  + C++
  * VS code
