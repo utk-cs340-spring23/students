@@ -1,11 +1,15 @@
 # About me 
 ## Contact
 **Name**:Joseph Eaton (I go by Joseph)
+
 **Netid**: jeaton9
+
 **GitHub**: JosephE0
+
 **email**: jeaton9@vols.utk.edu
 ## Academic Information
 **Major**: Electrical Engineering
+
 **Minor**: Computer Science
 ## Background
 I go by Joseph, and I am the first of my immediate family to get a degree! This is my last semester (wish me luck).
