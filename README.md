@@ -1,24 +1,31 @@
-## Due Jan 31 before midnight: Github Pull Request
+## Gunner M, gmille30: Github Pull Request
 
-1. Sign up for [GitHub](https://github.com/) if not already signed
-     up. Pick default (free plan).
-1. [Fork](https://help.github.com/articles/fork-a-repo/) utk-cs340-spring23/students 
-        - Start by [**forking** the students repository](https://github.com/utk-cs340-spring23/students)
-1. Clone the repository to your computer (git clone https://github.com/yourGHid/students)
-1. Introduce yourself via a netid.md file (do not create netid.md, but replace netid by your own netid in all lowercase). Please provide some information about your background and interests. This should be kind of like a mini resume. It does not need all the details of a resume, but it must include the following elements:
-     * The file must be a .md file using markdown format. Do not use embedded html.
-     * Include your name, name you go by (if different), your UT netid, your github username, your major
-     * It must contain at least one header
-     * It must contain at least one list, either ordered or unordered
-     * Include at least one sentence about your background
-     * Include at least one sentence about your interests
-     * Include at least one link to another html page, for example, a link to a page about your hobbies or interests
-     * List some of the computer languages, tools, and frameworks of which you are familiar (such as C/C++, Git, Eclipse, Unity, Make, CSS, etc)
+### Name: Gunner Miller
+### Netid / GHid: gmille30
+### Major: Computer Science
+---
+### Background Info:
+I am a Junior CS major. I'm local to Knoxville. I intend to work in cyber security, specifically with national security and other government related fields. Aside from learning computer science I am also attempting to learn Arabic here at UTK.
+     
+### Interests and Hobbies:
+Computer science and electronics are my major passions, however I do have other interests. I live on a small farm which allows me to: raise animals, garden, etc. Aside from this I also enjoy machining, welding, and general building / tinkering. For a very generalized understanding of my interests see the following site: https://makerfaire.com/
 
-1. git add netid.md
-1. git commit -m 'adding my background information'
+### Familiarities and Experience:
+Listed below are the programming languages I have experience with in order of profenciency
+1. C++ / C
+1. C# / Java
+1. Python (including libraries such as numpy, Crypto, etc)
 
-    You may be asked to provide your email and name for the git client if you have not used git before 
-1. git push
+Software Design Frameworks I have experience with
+1. .NET w/ C#
+1. WPF w/ C#
+1. Android Studio (minimal experience)
 
-1. Now go to your fork (https://github.com/yourGHid/students) and click on [Create Pull Request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/utk-cs340-spring23/students)
+Things I have minimal / No experience with
+1. html/css - General Webdesign
+1. Scripting languages (Excluding Python)
+1. git / Github
+1. SQL (Any database software / languages)
+
+Experience:
+I've developed a number of simple applications in class using Python, C, C++, C#, as well as some assembly. Outside of class most of my software experience comes from either personal projects or from my past internship with Northrup Grumman. During my internship I became familiar with developing applications for Windows systems using Visual Studio as well as the .NET framework. The software I wrote provided a graphical interface which allowed for the direct testing/monitoring of components designed for use with EOD robots. This software required some implementation of the CAN protocol as well as features allowing for communication over a serial connection.
