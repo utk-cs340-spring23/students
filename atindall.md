@@ -17,7 +17,7 @@ I tend to only go out to get food, go to the store, or hangout with friends and 
 - Tabletop Gaming: Whether role-playing games like [*Dungeons and Dragons*](https://dnd.wizards.com/) or board games like [*Carcassonne*](https://www.zmangames.com/en/products/carcassonne/), I like playing a variety of tabletop games. Though I don't get to play it as much, I enjoy playing *Star Wars X-Wing Second Edition*. It is a tactical space combat game where you maneuver a squadron of iconic *Star Wars* starships to destroy your opponent's squadron.
 - Arts & Crafts: I enjoy painting miniatures and resin casting dice for role-playing games. Due to current personal circumstances, I am not able to pursue this interest as much as I would like.
 - Reading: I enjoy reading, but I mostly read a few web-comics on [Webtoon](https://www.webtoons.com/en/) these days. For novels, the genres I prefer are thriller, fantasy, and science-fiction.
-- YouTube: I like watching a wide variety of gaming and comedy YouTube channels. One of my favorites is this [funny cat video](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+- YouTube: I like watching a wide variety of gaming and comedy YouTube channels. One of my favorite videos is this [funny cat video](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 ## Technical Skills
 - C/C++
