@@ -6,7 +6,7 @@ Hi, I'm Alex Zhang.
 - Major: Computer Science and Mathematics
 
 ## Background
-I'm a sophomore at UTK.
+I'm currently a sophomore at UTK. I started coding in high school and have used agile/scrum methodologies only a few times.
 
 ## Interests
 I like playing guitar and piano, as well as writing music.
