@@ -5,7 +5,7 @@
 - Minor: Cyber Security
 
 ## Summary
-Hello, my name is Chip Bevil. I enjoy coding a lot, although I don't have mu    ch experience outside of our classes up until this point. I enjoy playing al    most any sport, as well as games such as Rocket League.
+Hello, my name is Chip Bevil. I enjoy coding a lot, although I don't have much experience outside of our classes up until this point. I enjoy playing al    most any sport, as well as games such as Rocket League.
   
 ## Skills
 - C/C++
