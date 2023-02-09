@@ -12,7 +12,3 @@ My two main interests are video games and coding.
 
 I am familiar with C++ as of now.
 
-
-
-
-
