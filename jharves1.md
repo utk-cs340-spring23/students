@@ -5,11 +5,12 @@
 * Github User: rivetingpeach
 * Major: Computer Science
 
-[Interests](./interests.html)
+I am a computer science major who is interested mainly in commercial software development.
+My two main interests are video games and coding.
 
-[cool link](www.google.com)
+[cool link](https://google.com)
 
-I am familiar with C++
+I am familiar with C++ as of now.
 
 
 
